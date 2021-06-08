@@ -1,0 +1,17 @@
+4
+21
+Depozit1
+Bucuresti
+30
+22
+Depozit2
+Roman
+13
+23
+Depozit3
+Ploiesti
+45
+24
+Depozit4
+Baicoi
+32
