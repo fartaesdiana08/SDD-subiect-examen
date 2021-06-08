@@ -1,0 +1,11 @@
+5
+Imparat1
+1400
+Imparat2
+1900
+Imparat3
+1600
+Imparat4
+1300
+Imparat5
+1100
