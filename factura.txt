@@ -1,0 +1,5 @@
+100 Societate1 Client1 10 300.6
+101 Societate2 Client2 12 456.9 
+102 Societate3 Client3 18 356.5
+103 Societate4 Client4 9 100
+104 Societate5 Client5 20 78.4
