@@ -1,0 +1,57 @@
+VECTORI
+https://github.com/zamfiroiu/Structuri2018/blob/master/1041_Seminar01.cpp
+//pozitie maxima
+https://github.com/zamfiroiu/Structuri2018/blob/master/1047_Seminar02.cpp
+
+LISTA SIMPLU INLANTUITA
+//dezalocare
+https://github.com/zamfiroiu/Structuri2018/blob/master/1044_Seminar3.cpp
+//inserare sortata
+https://github.com/zamfiroiu/Structuri2018/blob/master/1047_Seminar5.cpp
+
+LISTA DUBLU INLANTUITA
+//dezalocare, inserare pe pozitie, extragere dupa int
+https://github.com/zamfiroiu/Structuri2018/blob/master/1044_seminar4.cpp
+
+LISTA CIRCULARA
+//inserare, dezalocare
+https://github.com/zamfiroiu/Structuri2018/blob/master/1041_seminar7.cpp
+//filtrare in vector
+https://github.com/zamfiroiu/Structuri2018/blob/master/1047_seminar07.cpp
+
+HASHTABLE
+//cauta dupa char, dezalocare
+https://github.com/zamfiroiu/Structuri2018/blob/master/1041_seminar6.cpp
+//cauta dupa int
+https://github.com/zamfiroiu/Structuri2018/blob/master/1044_seminar6.cpp
+
+HEAP
+//filtrare
+https://github.com/zamfiroiu/Structuri2018/blob/master/1047_seminar8.cpp
+//extragere
+https://github.com/zamfiroiu/Structuri2018/blob/master/1041_seminar8.cpp
+
+ARBORE BINAR DE CAUTARE
+//cauta dupa int, extragere dupa int, dezalocare, mutare in LSI, mutare in LSI cu conditie
+https://github.com/zamfiroiu/Structuri2018/blob/master/1041_seminar10.cpp
+//afisare nivel
+https://github.com/zamfiroiu/Structuri2018/blob/master/1044_seminar11.cpp
+//extrage dupa float, copiere recursiv in LSI cu conditie
+https://github.com/zamfiroiu/Structuri2018/blob/master/1047_seminar10.cpp
+//avl
+https://github.com/zamfiroiu/Structuri2018/blob/master/1047_seminar11.cpp
+//nod minim
+https://github.com/zamfiroiu/Structuri2018/blob/master/1048_seminar10.cpp
+
+GRAFURI
+https://github.com/zamfiroiu/Structuri2018/blob/master/1041_seminar12.cpp
+https://github.com/zamfiroiu/Structuri2018/blob/master/1044_seminar13.cpp
+//cauta dupa int, calcul numar noduri
+https://github.com/zamfiroiu/Structuri2018/blob/master/1045_seminar12_grafuri.cpp
+//matricea adiacenta
+https://github.com/zamfiroiu/Structuri2018/blob/master/1047_seminar13.cpp
+
+COADA SI STIVA
+https://github.com/zamfiroiu/Structuri2018/blob/master/1044_seminar5.cpp
+https://github.com/zamfiroiu/Structuri2018/blob/master/1047_Seminar5.cpp
+https://github.com/zamfiroiu/Structuri2018/blob/master/1048_seminar12_grafuri.cpp
